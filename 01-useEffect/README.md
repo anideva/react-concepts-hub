@@ -35,3 +35,7 @@ JavaScript
 useEffect(() => {
   console.log("I run whenever 'count' changes!");
 }, [count]);
+
+
+💡 Follow my live updates and daily technical discussions on my [LinkedIn Post]
+https://www.linkedin.com/posts/aniketh-r_reactjs-webdevelopment-frontend-ugcPost-7483444739208273920-pOVZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCqL3oB0wklBumIujuqb8_ayfphsDmfU7g
